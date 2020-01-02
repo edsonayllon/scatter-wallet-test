@@ -1,6 +1,8 @@
-# scatter wallet test
+## Modular 2-2019
 
-## Table of Contents
+# Scatter Wallet Basic Integration
+
+## Contents
 
 <!-- TOC START min:1 max:3 link:true update:true -->
 - [scatter wallet test](#scatter-wallet-test)
@@ -25,8 +27,8 @@ Testing the ability to integrate Scatter wallet, particularly, the Signature Pro
 
 **Status:** _Complete_
 
-* Connect Scatter to React
-* Be able to send a transaction
+* [x] Connect Scatter to React
+* [x] Be able to send a transaction
 
 
 ## 3 | Getting Started
