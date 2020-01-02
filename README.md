@@ -1,4 +1,16 @@
-## Modular 2-2019
+---
+author: Edson Ayllon
+category: modular functionality project
+tags:
+- EOS
+- Smart Contract
+- Scatter.js
+- React
+twitter: https://twitter.com/relativeread
+---
+
+
+**Modular 2-2019**
 
 # Scatter Wallet Basic Integration
 
