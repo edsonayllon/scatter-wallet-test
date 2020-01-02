@@ -10,7 +10,7 @@ twitter: https://twitter.com/relativeread
 ---
 
 
-**Modular 2-2019**
+## Modular 2-2019
 
 # Scatter Wallet Basic Integration
 
