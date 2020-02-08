@@ -6,6 +6,7 @@ tags:
 - Smart Contract
 - Scatter.js
 - React
+status: complete
 twitter: https://twitter.com/relativeread
 ---
 
