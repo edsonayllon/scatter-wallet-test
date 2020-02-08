@@ -1,6 +1,6 @@
 ---
 author: Edson Ayllon
-category: modular functionality project
+category: functionality
 tags:
 - EOS
 - Smart Contract
@@ -10,9 +10,11 @@ twitter: https://twitter.com/relativeread
 ---
 
 
-## Modular 2-2019
+## Modular 5-2019
 
 # Scatter Wallet Basic Integration
+
+Testing the ability to integrate Scatter wallet, particularly, the Signature Provider.
 
 ## Contents
 
